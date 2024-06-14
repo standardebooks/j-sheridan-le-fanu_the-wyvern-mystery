@@ -34,18 +34,18 @@ footer{
 }
 
 /* Book-specific targeted semantics */
-#chapter-14 blockquote p:nth-of-type(1){
-	padding-left: 2em;
+#chapter-14 blockquote p{
+	text-indent:0;
 }
 
 #chapter-14 blockquote p:nth-of-type(2){
-	padding-left: 4em;
+	text-indent: 3em;
 }
 
 #chapter-14 blockquote p:nth-of-type(3){
-	padding-left: 6em;
+	text-indent: 6em;
 }
 
 #chapter-14 blockquote p:nth-of-type(4){
-	padding-left: 8em;
+	text-indent: 9em;
 }
