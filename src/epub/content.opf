@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-sheridan-le-fanu/the-wyvern-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-06-14T20:30:44Z</dc:date>
+		<meta property="dcterms:modified">2024-06-14T20:30:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -58,13 +58,13 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Alice Maybell is a young orphan who has grown up in Wyvern Manor with old Captain Fairfield and his two sons. She has grown into a beautiful young woman with a bright future; but her marriage, and her husband’s secret, will lead her down a dark path.&lt;/p&gt;
 			&lt;p&gt;Today, Irish writer &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu&lt;/a&gt; is remembered of as an early master of horror. In his own day, he would have thought of his work as falling into different genres, with his well-loved ghost stories, like “&lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu/in-a-glass-darkly"&gt;Green Tea&lt;/a&gt;,“ in one genre, and his “sensation novels,” like &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu/uncle-silas"&gt;&lt;i&gt;Uncle Silas,&lt;/i&gt;&lt;/a&gt;, in another.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Uncle Silas&lt;/i&gt;, while not exactly supernatural, contains elements of the Gothic and the macabre. But the heart of a sensation novel is not gothic atmosphere, but a secret that overshadows the characters’ lives. In &lt;i&gt;The Wyvern Mystery&lt;/i&gt;, the suspense is created not by the gothic or the macabre, but by the all to prosaic secret belonging to Alice’s husband, and how it grows to threaten both their futures.&lt;/p&gt;
+			&lt;p&gt;But the heart of a sensation novel is not Gothic atmosphere, but a secret that overshadows the characters’ lives. In &lt;i&gt;The Wyvern Mystery&lt;/i&gt;, the suspense is created not by the Gothic or the macabre, but by the all-too-prosaic secret held by Alice’s husband, and how it grows to threaten both their futures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/68569</dc:source>
 		<dc:source>https://archive.org/details/13407350.2515.emory.edu</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">130749</meta>
+		<meta property="se:reading-ease.flesch">78.18</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wyvern_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-sheridan-le-fanu_the-wyvern-mystery</meta>
 		<dc:creator id="author">J. Sheridan Le Fanu</dc:creator>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
