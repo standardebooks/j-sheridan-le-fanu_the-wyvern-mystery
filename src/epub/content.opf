@@ -68,7 +68,7 @@
 		<meta property="schema:wordCount">126730</meta>
 		<meta property="schema:educationalLevel">78.18</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Wyvern_Mystery" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/j-sheridan-le-fanu_the-wyvern-mystery" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">J. Sheridan Le Fanu</dc:creator>
